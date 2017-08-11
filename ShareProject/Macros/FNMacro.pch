@@ -1,0 +1,14 @@
+//
+//  FNMacro.pch
+//  ShareProject
+//
+//  Created by liuyubo on 2017/6/9.
+//  Copyright © 2017年 liuyubo. All rights reserved.
+//
+
+#ifndef FNMacro_pch
+#define FNMacro_pch
+
+#import "FNHeader.h"
+
+#endif /* FNMacro_pch */
